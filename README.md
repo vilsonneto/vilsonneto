@@ -1,4 +1,7 @@
 ### Olá! Eu sou Vilson Padilha Neto!
+- 🔭 Hoje eu trabalho com Front-end
+- 🌱 Estudando Next.js
+- 😄 Pronouns: ele/dele
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonneto&layout=compact&locale=pt-br)
 
@@ -8,7 +11,10 @@
   <img align="center" alt="vilson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="vilson-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="vilson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+
 </div>
   
   ##
@@ -18,11 +24,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje eu trabalho com Front-end
-- 🌱 Estudando Next.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
+
 -->
