@@ -28,7 +28,7 @@
 #### Top Repositories
 
 <a href="https://github.com/vilsonneto/vilson-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilsonneto&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilsonneto&repo=vilson-portfolio&theme=buefy" />
 </a>
 <!--
 ![Vilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilsonneto&show_icons=true&theme=dark&locale=pt-br)
