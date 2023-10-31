@@ -1,6 +1,6 @@
 ### Olá! Eu sou Vilson Padilha Neto!
 
-![Vilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilsonneto&show_icons=true&theme=radical)
+![Vilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilsonneto&show_icons=true&theme=dark)
 <!--
 **vilsonneto/vilsonneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
