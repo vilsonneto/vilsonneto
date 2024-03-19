@@ -30,6 +30,9 @@
 <a href="https://github.com/vilsonneto/vilson-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilsonneto&repo=vilson-portfolio&theme=buefy" />
 </a>
+<a href="https://github.com/vilsonneto/sport-find">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilsonneto&repo=sport-find&theme=buefy" />
+</a>
 <!--
 ![Vilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilsonneto&show_icons=true&theme=dark&locale=pt-br)
 **vilsonneto/vilsonneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
