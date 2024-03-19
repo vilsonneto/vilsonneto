@@ -32,7 +32,6 @@
 </a>
 <a href="https://github.com/vilsonneto/sport-find">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilsonneto&repo=sport-find&theme=buefy" />
-  
 </a>
 <!--
 ![Vilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilsonneto&show_icons=true&theme=dark&locale=pt-br)
