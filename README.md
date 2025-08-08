@@ -1,7 +1,6 @@
 ### Olá! Eu sou Vilson Padilha Neto!
 - 🔭 Hoje eu trabalho com Front-end
 - 🌱 Estudando Next.js
-- 😄 Pronouns: ele/dele
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonneto&layout=compact&locale=pt-br)
 
