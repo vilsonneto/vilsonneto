@@ -10,22 +10,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsonneto&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true)
-
-<br>
-
 <div>
   <a href="mailto:vilson.neto57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vilson-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-<br>
-
-#### Top Repositories
-
-<a href="https://github.com/vilsonneto/tributos-br">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilsonneto&repo=tributos-br&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/vilsonneto/vilson-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilsonneto&repo=vilson-portfolio&theme=tokyonight&hide_border=true" />
-</a>
